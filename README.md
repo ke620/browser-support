@@ -1,6 +1,6 @@
 # browser-support
 
-This library allows websites to maintain compatibility with older browsers, which do not implement newer features. It does so using [polyfills](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill) for small new features, plus functions to determine if a browser supports a set of features natively or with polyfills.
+This library allows websites to maintain compatibility with older browsers, which do not implement newer features. It does so using [polyfills](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill)for small new features, plus functions to determine if a browser supports a set of features natively or with polyfills.
 
 If you would like to see what features the browser you are currently using implements, you [can visit the documentation site](https://github.github.com/browser-support/) which displays a compatibility table that detects which features are natively supported in your browser.
 
